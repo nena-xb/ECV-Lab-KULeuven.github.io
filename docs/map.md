@@ -19,6 +19,9 @@ Noir,cafe,50.8766985,4.7005916, https://maps.app.goo.gl/68XEiZgXw737j6XVA
 Swartehond,cafe,50.8766985,4.6980167, https://maps.app.goo.gl/oQJ6KcJ73rHFh4xr5
 OPEK,cafe,50.8781656,4.6927774,  https://maps.app.goo.gl/hptZjzFRGgmkJE8B6
 University café, cafe,50.8787888,4.7008323, https://onan.be/nl/locations/kup-kuleuven/
+Thai House, restaurant, 50.87743033958458, 4.704134771042201, https://maps.app.goo.gl/oQJ6KcJ73rHFh4xr5
+Ah Quy, restaurant, 50.87728699361197, 4.703588342552277, https://maps.app.goo.gl/hpAdbJG1n9LxBenP8
+De Werf, restaurant, 50.87721617081543, 4.701553593415727 https://maps.app.goo.gl/PvnnM24RY3XsAbW69
 </code></pre>
 
 <div class="legend-container">
@@ -27,3 +30,4 @@ University café, cafe,50.8787888,4.7008323, https://onan.be/nl/locations/kup-ku
   <div class="legend-item"><i class="fas fa-coffee"></i></span> Cafe</div>
   <div class="legend-item"><i class="fas fa-utensils"></i></span> Restaurant</div>
 </div>
+
