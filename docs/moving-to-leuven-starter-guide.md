@@ -95,13 +95,13 @@ Transfering money home can be done through services like [Wise](https://wise.com
 
 ### Health Insurance
 
-Belgium requires mandatory health insurance. KU Leuven's HR department can guide you through the process of joining a "mutualiteit" (health fund). See the [HR page](https://admin.kuleuven.be/mykuleuven/en/theme/hr-wellbeing)
+Belgium requires mandatory health insurance. KU Leuven's HR department can guide you through the process of joining a "mutualiteit" (health fund). See the [HR page](https://admin.kuleuven.e/mykuleuven/en/theme/hr-wellbeing). Compare and choose but for internationals it's worth considering Solidaris if you frequently travel outside the EU, it's the only mutuality that provides coverage abroad.
 
 ## Daily Life
 
 ### Shopping
 
-* **Grocery stores**: Delhaize, Colruyt, Albert Heijn, Aldi, Lidl
+* **Grocery stores**: Delhaize, Carrefour, Albert Heijn (more expensive), Colruyt, Aldi, Lidl (budget)
 * **Markets**: Weekly market at center (Friday) see a complete list [here](https://visitleuven.be/markten)
 * **Shopping areas**: Diestsestraat and Bondgenotenlaan are the main shopping streets
 * **Foreign stores**: Various international shops are available for diverse products at [Brusselsestraat](https://g.co/kgs/bBeMrdh).
